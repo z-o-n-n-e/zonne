@@ -1,0 +1,11 @@
+[package]
+name = "zonne"
+version = "0.1.0"
+edition = "2021"
+authors = ["zonne <1545589093@qq.com>"]
+description = "Mr.Z's Rust Open Source Library"
+license = "WTFPL"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
