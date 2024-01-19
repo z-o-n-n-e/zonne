@@ -1,6 +1,6 @@
 [package]
 name = "zonne"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2021"
 authors = ["zonne <1545589093@qq.com>"]
 description = "Mr.Z's Rust Open Source Library"
