@@ -1,8 +1,8 @@
 use crate::utils::add;
 
-mod utils;
+pub mod utils;
 
-fn main() {
+pub fn main() {
     println!("add:{}",add(3,5));
 }
 
